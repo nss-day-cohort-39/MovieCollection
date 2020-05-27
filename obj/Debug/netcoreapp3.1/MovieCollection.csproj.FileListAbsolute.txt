@@ -1,0 +1,13 @@
+C:\Users\Andy Collins\workspace\MovieCollection\bin\Debug\netcoreapp3.1\MovieCollection.exe
+C:\Users\Andy Collins\workspace\MovieCollection\bin\Debug\netcoreapp3.1\MovieCollection.deps.json
+C:\Users\Andy Collins\workspace\MovieCollection\bin\Debug\netcoreapp3.1\MovieCollection.runtimeconfig.json
+C:\Users\Andy Collins\workspace\MovieCollection\bin\Debug\netcoreapp3.1\MovieCollection.runtimeconfig.dev.json
+C:\Users\Andy Collins\workspace\MovieCollection\bin\Debug\netcoreapp3.1\MovieCollection.dll
+C:\Users\Andy Collins\workspace\MovieCollection\bin\Debug\netcoreapp3.1\MovieCollection.pdb
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.csprojAssemblyReference.cache
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.AssemblyInfoInputs.cache
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.AssemblyInfo.cs
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.csproj.CoreCompileInputs.cache
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.dll
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.pdb
+C:\Users\Andy Collins\workspace\MovieCollection\obj\Debug\netcoreapp3.1\MovieCollection.genruntimeconfig.cache
